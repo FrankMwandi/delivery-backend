@@ -1,3 +1,1 @@
-# Strapi application
-
-A quick description of your strapi application
+back-end depends on this strapi API using graphql
